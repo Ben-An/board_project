@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* @import url(reset.css); */
+
+
+/* index 처음 페이지 */
+
+body{
+	margin: auto;
+}
+
+button{
+	padding: 40px;
+	
+}
